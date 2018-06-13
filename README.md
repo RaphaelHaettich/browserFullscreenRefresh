@@ -15,7 +15,7 @@ set login=Peter
 set password=Nicepassword1
 set browserPath=C:\Program Files (x86)\Google\Chrome\Application\  //Do not forget the last backslash
 set browserExe=chrome.exe
-set websiteUrl=stats.brack.ch/d/000000001/webstats?refresh=30s^&orgId=1 
+set websiteUrl=page.com/stats 
 set refreshTime=3600
 ```
 

@@ -1,3 +1,4 @@
-# Declare files that will always have CRLF line endings on checkout.
+# CRLF line endings
 *.bat text eol=crlf
+# Binary Files
 *.exe binary
